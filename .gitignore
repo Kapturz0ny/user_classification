@@ -1,0 +1,9 @@
+.idea
+test.json
+test.txt
+training.txt
+model.pkl
+model/__pycache__
+.vscode/
+myenv/
+data/
