@@ -5,9 +5,7 @@
 Classification model that determines whether a user is likely to purchase a premium account based on their previous interactions with the system (see documentation for details). 
 
 ## Data
-All used data can be downloaded from **[here](https://drive.google.com/file/d/1FPjkEAxlZTECQkThL3QiSvdH7D_nDT5E/view?usp=sharing)**.
-
-Create `data` directory and extract there downloaded data.
+All used data was compressed to zip file and should be extracted to `data` directory.
 
 ## Model setup
 Firstly, create virutal environment
